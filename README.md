@@ -53,7 +53,7 @@ Estou em busca de um estágio para aplicar esses conhecimentos em um time real, 
 
 | Projeto | Descrição | Tech | Link |
 |---|---|---|---|
-| **Sistema de Estoque** | Aplicação Java para controle de estoque — cadastro, consulta e atualização de itens. Projeto pessoal para praticar POO e organização de código em classes. | `Java` | [Ver repositório](#) |
+| **Sistema de Estoque** | Aplicação Java para controle de estoque — cadastro, consulta e atualização de itens. Projeto pessoal para praticar POO e organização de código em classes. | `Java` | [Ver repositório](https://github.com/bassanitheo322-prog/Sistema-de-Estoque) |
 | **Dashboard de Leitura de Dispositivo** | Projeto freelancer: solução web para exibição de dados coletados por dispositivo externo, com geração de gráficos a partir das leituras. Lógica de processamento em Java + interface em HTML/CSS. | `Java` `HTML` `CSS` | Projeto de cliente |
 
 > ⚠️ Substitua o link `#` pelo repositório real do Sistema de Estoque antes de publicar.
@@ -99,32 +99,14 @@ UP Ecoville, Curitiba/PR — Conclusão prevista: Out/2028
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-GITHUB&show_icons=true&theme=radical&hide_border=true)
-
-![Streak de contribuições](https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO-GITHUB&theme=radical&hide_border=true)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=SEU-USUARIO-GITHUB&theme=radical&no-frame=true&row=1)
-
-</div>
-
-> ⚠️ Substitua `SEU-USUARIO-GITHUB` pelo seu usuário real do GitHub em todos os links acima (três ocorrências).
-
----
-
 ## 🌐 Conexões
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-LINKEDIN/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@exemplo.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/théo-cartelli-bassani-7b6412349)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bassanitheo71@gmail.com)
 
 </div>
-
-> ⚠️ Substitua `SEU-LINKEDIN` e o e-mail pelos seus dados reais.
 
 ---
 
