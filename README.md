@@ -56,8 +56,6 @@ Estou em busca de um estágio para aplicar esses conhecimentos em um time real, 
 | **Sistema de Estoque** | Aplicação Java para controle de estoque — cadastro, consulta e atualização de itens. Projeto pessoal para praticar POO e organização de código em classes. | `Java` | [Ver repositório](https://github.com/bassanitheo322-prog/Sistema-de-Estoque) |
 | **Dashboard de Leitura de Dispositivo** | Projeto freelancer: solução web para exibição de dados coletados por dispositivo externo, com geração de gráficos a partir das leituras. Lógica de processamento em Java + interface em HTML/CSS. | `Java` `HTML` `CSS` | Projeto de cliente |
 
-> ⚠️ Substitua o link `#` pelo repositório real do Sistema de Estoque antes de publicar.
-
 ---
 
 ## 💼 Experiência
@@ -103,7 +101,7 @@ UP Ecoville, Curitiba/PR — Conclusão prevista: Out/2028
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/théo-cartelli-bassani-7b6412349)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/th%C3%A9o-cartelli-bassani-7b6412349/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bassanitheo71@gmail.com)
 
 </div>
