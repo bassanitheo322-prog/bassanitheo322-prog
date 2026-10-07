@@ -121,6 +121,4 @@ UP Ecoville, Curitiba/PR — Conclusão prevista: Out/2028
 
 Estou em busca de uma oportunidade de estágio para crescer como desenvolvedor. Vamos conversar? 🚀
 
-*Feito com 💚 & ⚡ por Théo Cartelli Bassani*
-
 </div>
